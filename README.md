@@ -1,4 +1,4 @@
-# TSP_project
+# TSP_project: Solving the Traveling Salesman Problem with Evolutionary Search (Genetic Algorithms)
 
 To Run the Algorithm
 
